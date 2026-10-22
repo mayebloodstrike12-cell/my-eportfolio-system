@@ -1,0 +1,10 @@
+.env
+uploads/
+data/
+setup_database.php
+
+.env
+includes/db.php
+setup_database.php
+uploads/
+data/
